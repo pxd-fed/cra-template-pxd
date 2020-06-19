@@ -1,5 +1,5 @@
 # cra-template-pxd
 
 ```
-create-react-app [project-name] --template pxd
+npx create-react-app [project-name] --template pxd
 ```
